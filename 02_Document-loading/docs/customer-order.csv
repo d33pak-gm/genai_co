@@ -1,0 +1,7 @@
+Order_ID,Customer_Name,Order_Date,Product,Quantity,Total_Amount,Status
+ORD001,John Michael,2024-01-15,Laptop Pro,1,1299.99,Delivered
+ORD002,Sarah Connor,2024-01-18,Wireless Mouse,2,59.98,Delivered
+ORD003,Mike Johnson,2024-01-20,Monitor 27",1,349.99,Processing
+ORD004,Emily Watson,2024-01-22,Keyboard Mechanical,1,89.99,Shipped
+ORD005,James Brown,2024-01-25,USB-C Cable,5,64.95,Delivered
+ORD006,Lisa Anderson,2024-01-28,Desk Lamp LED,3,137.97,Processing
